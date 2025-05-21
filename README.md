@@ -25,7 +25,7 @@ Les réalisations professionnelles présentées mettent en avant des compétence
 ## Contenu du dépôt
 
 - `Portfolio.xlsx` : tableau de synthèse des réalisations E5 (compétences, missions, périodes)  
-- `Présentation_E5.pptx` : support de présentation à l'oral de l'épreuve  
+- `Présentation finale.pptx` : support de présentation à l'oral de l'épreuve  
 - `README.md` : fichier de présentation du dépôt
 
 ## Objectif
